@@ -49,18 +49,18 @@ curl -O https://raw.githubusercontent.com/soyoung28/one_click_script/master/troj
 #### 通过 wget 命令安装 via wget to install script
 
 ```bash
-wget --no-check-certificate https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
+wget --no-check-certificate https://raw.githubusercontent.com/soyoung28/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
 ```
 
 
 
-![功能列表](https://github.com/jinwyp/one_click_script/blob/master/docs/readme.png?raw=true)
+![功能列表](https://github.com/soyoung28/one_click_script/blob/master/docs/readme.png?raw=true)
 
-![功能列表2](https://github.com/jinwyp/one_click_script/blob/master/docs/readme2.png?raw=true)
+![功能列表2](https://github.com/soyoung28/one_click_script/blob/master/docs/readme2.png?raw=true)
 
-![功能列表3](https://github.com/jinwyp/one_click_script/blob/master/docs/netflix1.png?raw=true)
+![功能列表3](https://github.com/soyoung28/one_click_script/blob/master/docs/netflix1.png?raw=true)
 
-![功能列表4](https://github.com/jinwyp/one_click_script/blob/master/docs/readme3.png?raw=true)
+![功能列表4](https://github.com/soyoung28/one_click_script/blob/master/docs/readme3.png?raw=true)
 
 
 
@@ -70,7 +70,7 @@ wget --no-check-certificate https://raw.githubusercontent.com/jinwyp/one_click_s
 #### 通过 wget 命令安装 via wget to install script
 
 ```bash
-wget --no-check-certificate https://raw.githubusercontent.com/jinwyp/one_click_script/master/netflix_check.sh && chmod +x ./netflix_check.sh && ./netflix_check.sh
+wget --no-check-certificate https://raw.githubusercontent.com/soyoung28/one_click_script/master/netflix_check.sh && chmod +x ./netflix_check.sh && ./netflix_check.sh
 ```
 
 
